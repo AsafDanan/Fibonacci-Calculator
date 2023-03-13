@@ -1,0 +1,32 @@
+#error-message{
+    position: relative;
+    background-color: #EBCCCC;
+    border-color: #e6c7c7;
+  color: #A94442;
+  font-size: 15px;
+  left: 144px;
+  bottom: 130px;
+  width: 170px;
+  display: none;
+}
+.error-message{
+    position: relative;
+    background-color: #EBCCCC;
+    border-color: #e6c7c7;
+  color: #A94442;
+  font-size: 15px;
+  left: 144px;
+  bottom: 130px;
+  width: 170px;
+  display: none;
+}
+#server-error{
+  position: relative;
+  color: #A94442;
+  font-size: 18px;
+  width: 300px;
+  display: none;
+}
+.item {
+  font-size: larger;
+}
